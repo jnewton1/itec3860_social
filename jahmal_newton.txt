@@ -1,5 +1,1 @@
-I am Jahmal Newton
-
-It is curently 8:22 in Software Dev II
-
-We are learning rebashing and other topics in github
+Softwae Dev II
